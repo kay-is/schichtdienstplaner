@@ -17,8 +17,8 @@ const shiftTypes = {
   '6A': {start: 6, end: 14.25, description: '06:00 - 14:15'},
   '7A': {start: 7, end: 15.25, description: '07:00 - 15:15'},
   '8A': {start: 8, end: 16.25, description: '08:00 - 16:15'},
-  'A20': {start: 12.75, end: 20, description: '12:45 - 20:00'},
-  'A21': {start: 13.75, end: 21, description: '13:45 - 21:00'},
+  'A20': {start: 11.75, end: 20, description: '11:45 - 20:00'},
+  'A21': {start: 12.75, end: 21, description: '12:45 - 21:00'},
   'N1': {start: 20.5, end: 30.5, description: '20:30 - 06:30'},
 }
 
